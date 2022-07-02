@@ -16,7 +16,7 @@ namespace MyFirstApp
             int heightElbrus = 5642;
             sbyte apartmentNumber = 7;
             double аbsoluteZero = -273.15;
-            bool earthIsRound = true;
+            bool isEarthRound = true;
             short jupitersМoons = 80;
             ulong citizensVolgograd = 1001183;
             long citizensRzhev = 56399;
